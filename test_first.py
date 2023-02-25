@@ -4,4 +4,4 @@ def test_first():
 
 
 def test_two():
-    assert 100500 > 2
+    assert 5 > 2
